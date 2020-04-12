@@ -1,0 +1,118 @@
+.logo-image{
+padding-right: 30;
+margin-bottom: 10;
+margin-left: 60;
+}
+
+.nabbar-nav{
+
+
+}
+
+.btn{
+position: absolute;
+top:5px;
+border-radius: 2em;
+right:40px;
+  background-image: linear-gradient(to right, hsl(136, 65%, 51%) ,hsl(192, 70%, 51%));
+  opacity:0.8
+
+}
+.btn:hover{
+  opacity: 0.8
+}
+
+.Generation-Header{
+padding-top:200;
+padding-left: 60;
+width: 40%;
+}
+
+.Financial-Header{
+  font-family: 'Public Sans', sans-serif;
+  width:40%;
+  padding-left: 60;
+  font-size: 18px;
+  padding-top: 30;
+}
+.desktop-image{
+
+z-index :-1;
+position:absolute;
+
+
+}
+.features{
+  padding: 7%, 15%;
+}
+
+.feature-box{
+  text-align: center;
+}
+
+.Easybank-Header{
+  font-size: 26px;
+margin-left: 60px;
+
+}
+.ArticleBox{
+  text-align: center;
+  width:60%
+}
+.img1{
+  padding-top: 7%;
+  width: 50%;
+}
+.img2{
+  padding-top: 7%;
+  width: 50%;
+}
+
+.img3{
+  padding-top: 7%;
+  width: 50%;
+}
+
+.img4{
+  padding-top: 7%;
+  width: 50%;
+}
+.phone-image{
+
+
+}
+
+.ArticleHeader{
+  font-family: 'Public Sans', sans-serif;
+margin-left: 60px;
+
+}
+.btn2{
+background-image: linear-gradient(to right, hsl(136, 65%, 51%) ,hsl(192, 70%, 51%));
+margin-left: 50;
+margin-top: 30;
+border-radius: 2em;
+}
+
+.Footer-Section{
+
+  background-color: hsl(233, 26%, 24%);
+  padding :7% 15% ;
+  top: auto;
+
+}
+
+.container{
+  text-align: center;
+  margin-left: auto;
+  position: absolute;
+
+
+
+}
+
+.navbar{
+  position: absolute;
+  width: 100%;
+  top:0;
+}
